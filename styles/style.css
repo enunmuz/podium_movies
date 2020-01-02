@@ -207,31 +207,7 @@ body {
 .py-2 {
   padding-top: 0 !important;
 }
-/* #bg {
-  
-  width: 100%;
-  height: -webkit-fill-available;
-  min-height: 100%;
-  background-image: url(../imgs/dummy-img.jpg);
-  background-size: cover;
-  background-position-x: center;
-  box-shadow: 0 3000px rgba(0, 0, 0, 0.795) inset;
-  position: fixed;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
-}
-#bg img {
-  filter: blur(20px);
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
-  min-width: 50%;
-  min-height: 50%;
-} */
+
 
 #data {
   justify-content: center;
@@ -254,31 +230,9 @@ body {
   font-size: 0.9em;
   font-weight: 400;
 }
-/* .col-md-4,
-.col-md-8 {
-  padding-top: 20%;
-} */
+
 
 .rating {
   padding-top: 0;
 }
-/* #poster {
-  height: 2vw;
-} */
-/* .tint {
-  z-index: 1;
-  height: 100%;
-  width: 100%;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  background: rgba(0, 0, 0, 0.75);
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-} */
+
