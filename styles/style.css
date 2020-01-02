@@ -21,7 +21,7 @@ body {
 }
 #action {
   padding-left: 2%;
-  font-size: 1rem;
+  font-size: 2vw;
   font-weight: 700;
   color: rgb(199, 197, 197);
   border-bottom: 3px solid #363636;
@@ -47,7 +47,7 @@ body {
   text-align: right;
 }
 .metadata {
-  font-size: 14px;
+  font-size: 1.3vw;
   color: #d6d6d6;
 }
 
@@ -97,12 +97,12 @@ body {
 }
 .card-body .card-title {
   font-weight: 600;
-  font-size: 2rem;
+  font-size: 2.5vw;
   color: #d6d6d6;
 }
 .card-body .card-text {
   margin-top: 8px;
-  font-size: 1.2em;
+  font-size: 1.2vw;
   font-weight: 400;
   line-height: 30px;
   color: #949393;
@@ -129,15 +129,15 @@ body {
 .trailer-preview {
   background-color: #df4242;
   position: absolute;
-  top: -46px;
-  right: 24px;
-  width: 80px;
-  height: 80px;
+  top: -3vw;
+  right: 1.4vw;
+  width: 5vw;
+  height: 5vw;
   border-radius: 50%;
   color: white;
-  font-size: 36px;
+  font-size: 2.2vw;
   text-align: center;
-  padding-top: 13px;
+  padding-top: 1vw;
   transition: transform 0.3s ease-out;
 }
 .trailer-preview:hover {
