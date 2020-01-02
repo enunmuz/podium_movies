@@ -7,7 +7,7 @@ body {
   margin-left: 2%;
 }
 .container-fluid {
-  margin-top: 10%;
+  margin-top: 100px;
 }
 .container {
   margin-top: 10%;
@@ -16,12 +16,12 @@ body {
   border-radius: 2px;
 }
 #header {
-  color: #00aae1;
+  color: #ececec;
   font-family: "Pacifico", cursive;
 }
 #action {
   padding-left: 2%;
-  font-size: 1.5em;
+  font-size: 1rem;
   font-weight: 700;
   color: rgb(199, 197, 197);
   border-bottom: 3px solid #363636;
