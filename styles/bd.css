@@ -1,0 +1,17 @@
+html {
+  background: url(../imgs/bd1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position-x: center;
+  box-shadow: 0 3000px rgba(0, 0, 0, 0.795) inset;
+  height: 100%;
+}
+.navbar {
+  background-color: #27272717;
+}
+
+body {
+  background-color: #1f1f1f00;
+}
