@@ -173,7 +173,7 @@ body {
   width: 50px;
   background-color: #fff;
   text-align: center;
-  color: #262626;
+  color: #ffffff;
   margin: 0 5px;
   border-radius: 50%;
   opacity: 0;
@@ -184,6 +184,7 @@ body {
 .card:hover > .social-media > li > a {
   transform: translateY(-50px);
   opacity: 1;
+  background-color: rgb(2, 131, 252);
 }
 
 .social-media > li > a > .fa {
