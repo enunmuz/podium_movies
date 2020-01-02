@@ -12,6 +12,9 @@ body {
 .container {
   margin-top: 10%;
 }
+#bg-cont{
+  margin-top: 20vh;
+}
 .btn {
   border-radius: 2px;
 }
@@ -200,7 +203,7 @@ body {
   background-image: url(../imgs/dummy-img.jpg);
   background-size: cover;
   background-position-x: center;
-  box-shadow: 0 3000px rgba(0, 0, 0, 0.4) inset;
+  box-shadow: 0 3000px rgba(0, 0, 0, 0.795) inset;
   position: fixed;
   top: -50%;
   left: -50%;
@@ -239,8 +242,16 @@ body {
   font-size: 0.9em;
   font-weight: 400;
 }
+/* .col-md-4,
+.col-md-8 {
+  padding-top: 20%;
+} */
+
+.rating {
+  padding-top: 0;
+}
 /* #poster {
-  padding: 5%;
+  height: 2vw;
 } */
 /* .tint {
   z-index: 1;
