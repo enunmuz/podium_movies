@@ -18,6 +18,6 @@ _Initial release_
 
 _Future release will include the use of JS for carousel effect on cards, adding another page for series, search feature_
 
-\*\*You can directly view the demo of this webpage from [here](https://enunmuz.github.io/podium_movies/index.html)
+**You can directly view the demo of this webpage from [here](https://enunmuz.github.io/podium_movies/index.html)**
 
     Please ignore the files used in "styles/carousel.css" and "js/carousel.js" as they'll be used in future releases
