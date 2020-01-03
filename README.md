@@ -18,5 +18,19 @@ _Initial release_
 
 _Future release will include the use of JS for carousel effect on cards, adding another page for series, search feature_
 
+```html
+<h2>Example of code</h2>
+
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+```
 
     Please ignore the files used in "styles/carousel.css" and "js/carousel.js" as they'll be used in future releases
