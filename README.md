@@ -7,13 +7,14 @@
 _Instruction for use_
 
 - Open index.html
-- Use info button on cards to navigate to description page (more-inter.html)
+- Use info button on cards to navigate to corresponding description page.
+- Use play button on the card to play trailer of the movie (via Youtube.com)
 
 _Initial release_
 
 **This release includes following features for now:**
 
-- List of movies in card form
+- List of movies in card form (using bootstrap).
 - Card shows poster of movie, title, imdb rating, genre, a button for watching the trailer of that movie, an info button to show description of the movie.
 
 _Future release will include the use of JS for carousel effect on cards, adding another page for series, search feature_
